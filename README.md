@@ -1,5 +1,11 @@
 # 💫 About Me:
-"Hi 👋, I'm Tony, a third-year student at FPT University 🔭. I'm currently specializing in backend development 🌱, with a focus on Java and the Spring Boot framework ⚡."<br><br>
+Hi 👋, I'm Tony, a passionate Business Analyst, Software Engineer, and Web Developer specializing in backend development 🌱, with a focus on Java and the Spring Boot framework ⚡, currently studying at FPT University.
+
+I love building websites that focus on people’s services and personal interests, always aiming to create something useful and engaging that everyone can enjoy. With a strong ambition to become the best version of myself, I approach all my work with care, creativity, and dedication.
+
+My ultimate dream is to have the opportunity to work at one of the BIG4 tech companies in the USA, to challenge myself and bring honor and happiness to those who support me.
+
+Let’s have a great time together! 🌟."<br><br>
 
 
 # 💻 Tech Stack:
