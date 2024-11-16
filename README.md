@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Tony, a passionate Business Analyst, Software Engineer, and Web Developer specializing in backend development 🌱, with a focus on Java and the Spring Boot framework ⚡, currently studying at FPT University.
+Hi 👋, I'm Tony, a passionate Business Analyst, Software Engineer, and Web Developer, currently studying at FPT University.
 
 I love building websites that focus on people’s services and personal interests, always aiming to create something useful and engaging that everyone can enjoy 🤗. With a strong ambition to become the best version of myself, I approach all my work with care, creativity, and dedication.
 
