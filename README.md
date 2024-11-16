@@ -15,7 +15,7 @@ Let’s have a great time together! 🌟."<br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TonyJugo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyJugo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ My Dev Quote
 > "The only way to do great work is to love what you do." – Steve Jobs
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
