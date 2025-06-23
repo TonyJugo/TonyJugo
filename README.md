@@ -3,7 +3,7 @@ Hi 👋, I'm Tony, a passionate Business Analyst, Software Engineer, and Web Dev
 
 I love building websites that focus on people’s services and personal interests, always aiming to create something useful and engaging that everyone can enjoy 🤗. With a strong ambition to become the best version of myself, I approach all my work with care, creativity, and dedication.
 
-My ultimate dream is to have the opportunity to work at one of the BIG4 tech companies in the USA, to challenge myself and bring honor and happiness to those who support me.
+My greatest aspiration is to grow into a capable and responsible developer, working at top companies where I can push my limits and bring pride and joy to those who have supported me.
 
 Let’s have a great time together! 🌟."<br><br>
 
